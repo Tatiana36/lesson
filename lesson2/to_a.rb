@@ -1,0 +1,1 @@
+puts h.to_a  
